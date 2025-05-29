@@ -1,6 +1,6 @@
-**Spectral Analysis to Determine Synthetic Image Generation**
+##Spectral Analysis to Determine Synthetic Image Generation**
 
-Instructions
+###Instructions
 
 1. Follow dataset download and setup here:
 
