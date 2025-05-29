@@ -5,6 +5,7 @@ Instructions
 1. Follow dataset download and setup here:
 
    https://github.com/grip-unina/DMimageDetection/tree/main
+
    https://github.com/grip-unina/SyntheticImagesAnalysis/tree/main
 2. Obtain DenoiserWeight and TestSet folders (TestSet must contain COCO, UCID, and ImageNet images)
 3. For each desired model, run compress_images.py and save to folder CompressedTestSet (for each model, this will save high_compression, high_quality, high_quality_subsampled, medium_quality different JPEG compressions of the images)
